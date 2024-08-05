@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(240, 235, 233);
+}
+h2{
+    color: rgb(241, 200, 13);
+}
+span{
+    color: blue;
+}
+#head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#main-sec
+{
+    display: flex;
+    height: 400px;
+    display: inline-block;
+}
+img{
+    height: 140px;
+    width: 120px;
+}
+p{
+    margin:20px;
+}
+h3{
+    margin:20px;
+}
+#beauty{
+    display: inline-block;
+}
+#name{
+    text-align: right;
+}
